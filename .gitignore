@@ -1,3 +1,9 @@
 
 # venv
 .nuinfo-seminar
+
+# python
+.ipyinb_checkpoints/
+
+# そのほか
+about/
